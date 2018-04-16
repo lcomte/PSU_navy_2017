@@ -1,0 +1,28 @@
+moulinette
+
+B-PSU-200 navy
+
+
+Basic tests
+
+  basic signal - 2 tests
+    Player connection: OK
+      PASSED
+    Player waiting connection: OK
+      PASSED
+  
+
+Advanced tests
+
+  game:
+    Passed: 87.5 %
+    Crashed: 0.0 %
+  protocol:
+    Passed: 100.0 %
+    Crashed: 0.0 %
+  rigor:
+    Passed: 100.0 %
+    Crashed: 0.0 %
+    
+guillem.lithaud@epitech.eu
+lucas.comte@epitech.eu
